@@ -7,6 +7,6 @@ import org.junit.runner.RunWith;
 
 @RunWith(JUnitPlatform.class)
 @SelectPackages("ch.hsr.testing.unittest.weekenddiscount")
-@IncludeTags({"negative", "fast"})
+@IncludeTags({"negative", "fast"}) 
 public class FastNegativeTestSuite {
 }
