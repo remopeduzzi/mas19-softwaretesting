@@ -1,0 +1,32 @@
+ch/hsr/testing/unittest/testbuilderpattern/Address.java
+ ch.hsr.testing.unittest.testbuilderpattern.Address
+ch/hsr/testing/unittest/tdd/romannumbers/RomanNumber.java
+ ch.hsr.testing.unittest.tdd.romannumbers.RomanNumber
+ch/hsr/testing/unittest/testbuilderpattern/ShippingAddressSelector.java
+ ch.hsr.testing.unittest.testbuilderpattern.ShippingAddressSelector
+ch/hsr/testing/unittest/assertions/lotr/TolkienCharacter.java
+ ch.hsr.testing.unittest.assertions.lotr.TolkienCharacter
+ch/hsr/testing/unittest/mocking/HttpService.java
+ ch.hsr.testing.unittest.mocking.HttpService
+ch/hsr/testing/unittest/testbuilderpattern/Company.java
+ ch.hsr.testing.unittest.testbuilderpattern.Company
+ch/hsr/testing/unittest/weekenddiscount/WeekendDiscountTimeSlotValidator.java
+ ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidator
+ch/hsr/testing/unittest/testbuilderpattern/AddressHistoryChain.java
+ ch.hsr.testing.unittest.testbuilderpattern.AddressHistoryChain
+ch/hsr/testing/unittest/assertions/lotr/LotrActors.java
+ ch.hsr.testing.unittest.assertions.lotr.LotrActors
+ch/hsr/testing/unittest/testbuilderpattern/CustomerForShipping.java
+ ch.hsr.testing.unittest.testbuilderpattern.CustomerForShipping
+ch/hsr/testing/unittest/assertions/lotr/Race.java
+ ch.hsr.testing.unittest.assertions.lotr.Race
+ch/hsr/testing/unittest/mocking/AddressRetrieverException.java
+ ch.hsr.testing.unittest.mocking.AddressRetrieverException
+ch/hsr/testing/unittest/mocking/AddressRetriever.java
+ ch.hsr.testing.unittest.mocking.AddressRetriever
+ch/hsr/testing/unittest/weekenddiscount/IllegalWeekendNumberException.java
+ ch.hsr.testing.unittest.weekenddiscount.IllegalWeekendNumberException
+ch/hsr/testing/unittest/parametrized/PrimeChecker.java
+ ch.hsr.testing.unittest.parametrized.PrimeChecker
+ch/hsr/testing/unittest/tdd/romannumbers/RomanNumberConverter.java
+ ch.hsr.testing.unittest.tdd.romannumbers.RomanNumberConverter

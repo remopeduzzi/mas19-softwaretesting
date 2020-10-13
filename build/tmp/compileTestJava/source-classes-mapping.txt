@@ -1,0 +1,55 @@
+ch/hsr/testing/systemtest/weekenddiscount/pageobjects/SauceDetailPage.java
+ ch.hsr.testing.systemtest.weekenddiscount.pageobjects.SauceDetailPage
+ch/hsr/testing/systemtest/weekenddiscount/pageobjects/CartPage.java
+ ch.hsr.testing.systemtest.weekenddiscount.pageobjects.CartPage
+ch/hsr/testing/systemtest/weekenddiscount/tests/WeekendDiscountAcceptanceTests.java
+ ch.hsr.testing.systemtest.weekenddiscount.tests.WeekendDiscountAcceptanceTests
+ch/hsr/testing/unittest/weekenddiscount/WeekendDiscountTimeSlotValidatorTest.java
+ ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest
+ ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest$TestBuilder
+ch/hsr/testing/unittest/heuristics/MultiplySquareRoot.java
+ ch.hsr.testing.unittest.heuristics.MultiplySquareRoot
+ch/hsr/testing/systemtest/helloworld/HelloWorldHeatClinic.java
+ ch.hsr.testing.systemtest.helloworld.HelloWorldHeatClinic
+ch/hsr/testing/systemtest/weekenddiscount/pageobjects/HotSaucesPage.java
+ ch.hsr.testing.systemtest.weekenddiscount.pageobjects.HotSaucesPage
+ch/hsr/testing/systemtest/weekenddiscount/pageobjects/Page.java
+ ch.hsr.testing.systemtest.weekenddiscount.pageobjects.Page
+ch/hsr/testing/unittest/weekenddiscount/FastNegativeTestSuite.java
+ ch.hsr.testing.unittest.weekenddiscount.FastNegativeTestSuite
+ch/hsr/testing/systemtest/weekenddiscount/extension/ScreenshotOnFailureExtension.java
+ ch.hsr.testing.systemtest.weekenddiscount.extension.ScreenshotOnFailureExtension
+ch/hsr/testing/unittest/testbuilderpattern/ShippingAddressSelectorTest.java
+ ch.hsr.testing.unittest.testbuilderpattern.ShippingAddressSelectorTest
+ ch.hsr.testing.unittest.testbuilderpattern.ShippingAddressSelectorTest$AddressBuilder
+ ch.hsr.testing.unittest.testbuilderpattern.ShippingAddressSelectorTest$TestBuilder
+ ch.hsr.testing.unittest.testbuilderpattern.ShippingAddressSelectorTest$TestResult
+ch/hsr/testing/systemtest/weekenddiscount/util/DateFactory.java
+ ch.hsr.testing.systemtest.weekenddiscount.util.DateFactory
+ch/hsr/testing/systemtest/helloworld/HelloWorldGoogleExample.java
+ ch.hsr.testing.systemtest.helloworld.HelloWorldGoogleExample
+ch/hsr/testing/systemtest/weekenddiscount/tests/WeekendDiscountSmokeTests.java
+ ch.hsr.testing.systemtest.weekenddiscount.tests.WeekendDiscountSmokeTests
+ch/hsr/testing/systemtest/weekenddiscount/badexample/WeekendDiscountTestWithoutPageObjects.java
+ ch.hsr.testing.systemtest.weekenddiscount.badexample.WeekendDiscountTestWithoutPageObjects
+ch/hsr/testing/unittest/mocking/AddressRetrieverTestBadExample.java
+ ch.hsr.testing.unittest.mocking.AddressRetrieverTestBadExample
+ch/hsr/testing/systemtest/weekenddiscount/pageobjects/HomePage.java
+ ch.hsr.testing.systemtest.weekenddiscount.pageobjects.HomePage
+ch/hsr/testing/systemtest/weekenddiscount/util/FileUtil.java
+ ch.hsr.testing.systemtest.weekenddiscount.util.FileUtil
+ch/hsr/testing/systemtest/weekenddiscount/Constants.java
+ ch.hsr.testing.systemtest.weekenddiscount.Constants
+ch/hsr/testing/unittest/tdd/romannumbers/RomanNumbersTest.java
+ ch.hsr.testing.unittest.tdd.romannumbers.RomanNumbersTest
+ch/hsr/testing/systemtest/weekenddiscount/extension/WebDriverKeeper.java
+ ch.hsr.testing.systemtest.weekenddiscount.extension.WebDriverKeeper
+ch/hsr/testing/systemtest/weekenddiscount/util/DBUtil.java
+ ch.hsr.testing.systemtest.weekenddiscount.util.DBUtil
+ch/hsr/testing/systemtest/weekenddiscount/util/DBUtilTest.java
+ ch.hsr.testing.systemtest.weekenddiscount.util.DBUtilTest
+ch/hsr/testing/unittest/assertions/lotr/LotrActorsTest.java
+ ch.hsr.testing.unittest.assertions.lotr.LotrActorsTest
+ ch.hsr.testing.unittest.assertions.lotr.LotrActorsTest$ContainsOnlySpecifiedRacesMatcher
+ch/hsr/testing/unittest/heuristics/MultiplySquareRootTest.java
+ ch.hsr.testing.unittest.heuristics.MultiplySquareRootTest
