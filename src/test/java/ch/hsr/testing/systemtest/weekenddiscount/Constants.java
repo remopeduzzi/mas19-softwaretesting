@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 public interface Constants {
 
     // TODO: choose your os: either linux, windows or mac
-    String OS = "linux";
+    String OS = "mac";
 
     String HOST = "localhost";
 

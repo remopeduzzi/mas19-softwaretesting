@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c05d19-5772-4a97-be9c-802e0547a89c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hVIId1IPCNwp8JOHmh42FYAR3o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch.hsr.testing.unittest.weekenddiscount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FastNegativeTestSuite">
+    <configuration name="FastNegativeTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hsr-software-testing.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.hsr.testing.unittest.weekenddiscount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.hsr.testing.unittest.weekenddiscount" />
+      <option name="MAIN_CLASS_NAME" value="ch.hsr.testing.unittest.weekenddiscount.FastNegativeTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekendDiscountTimeSlotValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hsr-software-testing.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.hsr.testing.unittest.weekenddiscount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.hsr.testing.unittest.weekenddiscount" />
+      <option name="MAIN_CLASS_NAME" value="ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekendDiscountTimeSlotValidatorTest.testForFirstBrokenWeekendsOfMonthReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hsr-software-testing.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.hsr.testing.unittest.weekenddiscount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.hsr.testing.unittest.weekenddiscount" />
+      <option name="MAIN_CLASS_NAME" value="ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest" />
+      <option name="METHOD_NAME" value="testForFirstBrokenWeekendsOfMonthReturnFalse(java.time.LocalDateTime)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekendDiscountTimeSlotValidatorTest.testForWeekdaysInMonthReturnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hsr-software-testing.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.hsr.testing.unittest.weekenddiscount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.hsr.testing.unittest.weekenddiscount" />
+      <option name="MAIN_CLASS_NAME" value="ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest" />
+      <option name="METHOD_NAME" value="testForWeekdaysInMonthReturnsFalse(java.time.LocalDateTime)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekendDiscountTimeSlotValidatorTest.testIsElligibleForDecember2020ThirdWeek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hsr-software-testing.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.hsr.testing.unittest.weekenddiscount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.hsr.testing.unittest.weekenddiscount" />
+      <option name="MAIN_CLASS_NAME" value="ch.hsr.testing.unittest.weekenddiscount.WeekendDiscountTimeSlotValidatorTest" />
+      <option name="METHOD_NAME" value="testIsElligibleForDecember2020ThirdWeek(java.time.LocalDateTime,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FastNegativeTestSuite" />
+        <item itemvalue="JUnit.WeekendDiscountTimeSlotValidatorTest.testForFirstBrokenWeekendsOfMonthReturnFalse" />
+        <item itemvalue="JUnit.WeekendDiscountTimeSlotValidatorTest" />
+        <item itemvalue="JUnit.WeekendDiscountTimeSlotValidatorTest.testIsElligibleForDecember2020ThirdWeek" />
+        <item itemvalue="JUnit.WeekendDiscountTimeSlotValidatorTest.testForWeekdaysInMonthReturnsFalse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c05d19-5772-4a97-be9c-802e0547a89c" name="Default Changelist" comment="" />
+      <created>1600089753267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600089753267</updated>
+      <workItem from="1600089759456" duration="516000" />
+      <workItem from="1601725612651" duration="13738000" />
+      <workItem from="1602578913422" duration="193000" />
+      <workItem from="1602579376700" duration="50000" />
+      <workItem from="1602580325871" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1602581222213">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602581222213" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1600093421024" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1602581222211">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602581222211" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1600093421022" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1602581222210">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602581222210" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1600093421021" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1602581222212">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602581222212" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1600093421023" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1601997015583">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601997015583" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1601997015582">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601997015582" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1601997015581">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601997015581" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1601997015582">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601997015582" />
+    <state x="349" y="140" key="SettingsEditor" timestamp="1600090033836">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state x="349" y="140" key="SettingsEditor/0.25.1680.960@0.25.1680.960" timestamp="1600090033836" />
+  </component>
+</project>
